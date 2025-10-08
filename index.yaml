@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vishnu:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-08T11:14:14.326725902Z"
+    description: A Helm chart for Kubernetes
+    digest: a4e33c436f30af35ddc717636688b3c3022a4e490166cb92c8ae4088bcd2a605
+    name: vishnu
+    type: application
+    urls:
+    - vishnu-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-08T11:14:14.325783395Z"
